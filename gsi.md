@@ -3,6 +3,7 @@
 ### Installation Guide for Project Elixir on GSI Device
 
 PREREQUISITES:
+* Device must support at least 3.5 GB system size for now.
 * Check Project treble compatibility using [Treble Info](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck)
 - Must fit into ARM64 architecture requirement. (Future builds may include A64 support)
 - Must have at least VNDK28 support.
